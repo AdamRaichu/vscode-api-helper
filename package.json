@@ -1,0 +1,28 @@
+{
+  "name": "vscode-api-helper",
+  "version": "0.0.1",
+  "description": "Some helpful functions for use with the VS Code API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamRaichu/vscode-api-helper.git"
+  },
+  "keywords": [
+    "vscode",
+    "api",
+    "library"
+  ],
+  "author": "AdamRaichu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdamRaichu/vscode-api-helper/issues"
+  },
+  "homepage": "https://github.com/AdamRaichu/vscode-api-helper#readme",
+  "dependencies": {
+    "@types/node": "^18.14.2",
+    "@types/vscode": "^1.75.1"
+  }
+}
